@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean-hosting.top.ico",
     "slug": "ocean-hosting-main-website",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 303,
     "timeDay": 303,
     "timeWeek": 303,
@@ -61,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/de1.ocean-hosting.top.ico",
     "slug": "germany-1",
     "status": "up",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 429,
     "timeWeek": 429,
     "timeMonth": 429,
     "timeYear": 429,
-    "dailyMinutesDown": {
-      "2024-09-06": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
