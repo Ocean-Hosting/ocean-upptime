@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean-hosting.top.ico",
     "slug": "ocean-hosting-main-website",
     "status": "down",
-    "uptime": "1.57%",
-    "uptimeDay": "1.57%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
+    "time": 321,
+    "timeDay": 321,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 8
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 701,
-    "timeWeek": 701,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   },
   {
@@ -48,31 +48,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 548,
+    "timeDay": 548,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
     "name": "Germany 1",
-    "url": "https://de1.ocean-hosting.top:8080",
+    "url": "https://de1.ocean-hosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/de1.ocean-hosting.top.ico",
     "slug": "germany-1",
     "status": "down",
-    "uptime": "9.63%",
-    "uptimeDay": "9.63%",
-    "uptimeWeek": "9.63%",
-    "uptimeMonth": "9.63%",
-    "uptimeYear": "9.63%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 509,
     "timeDay": 509,
     "timeWeek": 509,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 8
     }
   }
 ]
