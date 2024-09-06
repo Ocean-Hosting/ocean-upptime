@@ -10,9 +10,9 @@ sites:
   - name: Ocean Hosting Panel
     url: https://panel.ocean-hosting.top
   - name: Germany 1
-    url: https://de1.ocean-hosting.top
-    check: "tcp-ping"
-    port: 8080
+    url: https://de1.ocean-hosting.top:8080
+    expectedStatusCodes:
+     - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
