@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean-hosting.top.ico",
     "slug": "ocean-hosting-main-website",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 302,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-09-06": 38
+      "2024-09-07": 39,
+      "2024-09-06": 797
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 811,
-    "timeWeek": 811,
-    "timeMonth": 811,
-    "timeYear": 811,
+    "time": 819,
+    "timeDay": 819,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 530,
-    "timeWeek": 530,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 494,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   }
 ]
