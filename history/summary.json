@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean-hosting.top.ico",
     "slug": "ocean-hosting-main-website",
     "status": "up",
-    "uptime": "0.22%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.36%",
+    "uptimeDay": "1.46%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 335,
     "timeDay": 412,
     "timeWeek": 335,
@@ -28,43 +28,47 @@
     "url": "https://client.ocean-hosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/client.ocean-hosting.top.ico",
     "slug": "ocean-hosting-client",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 821,
     "timeDay": 703,
     "timeWeek": 821,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 1
+    }
   },
   {
     "name": "Ocean Hosting Panel",
     "url": "https://panel.ocean-hosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/panel.ocean-hosting.top.ico",
     "slug": "ocean-hosting-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 574,
     "timeDay": 595,
     "timeWeek": 574,
     "timeMonth": 574,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 1
+    }
   },
   {
     "name": "Germany 1",
     "url": "https://de1.ocean-hosting.top:8080",
     "icon": "https://icons.duckduckgo.com/ip3/de1.ocean-hosting.top.ico",
     "slug": "germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,6 +79,8 @@
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   }
 ]
